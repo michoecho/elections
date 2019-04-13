@@ -1,0 +1,11 @@
+Before launching the application, the database needs to be created with
+create.sql.
+
+Database credentials for the application are configured in config.php.
+
+The root "admin" account should be setup by launching setup.php.
+This account is used to register commission accounts.
+
+login.php is the entry page for the application.
+
+Tab width of 4 or 2 is recommended for viewing the source code.
